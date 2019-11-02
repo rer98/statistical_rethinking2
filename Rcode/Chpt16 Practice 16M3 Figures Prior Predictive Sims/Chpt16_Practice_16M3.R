@@ -1,7 +1,7 @@
 library(rethinking)
 options(mc.cores = parallel::detectCores())
 
-setwd('~/Documents/Stats, Machine Learning and AI/Statistical Rethinking/Rcode/Chpt16 Practice 16M3 Figures Prior Predictive Sims/')
+# setwd('~/Documents/Stats, Machine Learning and AI/Statistical Rethinking/Rcode/Chpt16 Practice 16M3 Figures Prior Predictive Sims/')
 data(Lynx_Hare)
 
 dat_list <- list(
