@@ -1,7 +1,7 @@
 # statistical_rethinking2
 My notebooks covering Professor Richard McElreath's (https://xcelab.net/rm/statistical-rethinking/ and https://github.com/rmcelreath/rethinking) Statistical Rethinking 2 book and practice problems (2nd edition draft version up to 26th Sept 2019), and the homeworks from his winter 2019 lecture course.
 
-Most of the notebooks are in R; these can be found in the Rcode/ directory.  There are also a few notebooks in Python3 (see pythonCode/ directory), where I tried things out in PyMC3.  The notebooks in Python cover Chapters 4 and 6, and Homeworks 1, 2, 3, 4 and 5.  The rest of the book uses R (and Stan).
+Most of the notebooks are in R; these can be found in the Rcode/ directory.  There are also a few notebooks in Python3 (see pythonCode/ directory), where I try using PyMC3.  The notebooks in Python cover Chapters 4 and 6, and Homeworks 1, 2, 3, 4 and 5.  The rest of the book uses R (and Stan).
 
 The Homework notebooks refer to the homeworks set in Prof McElreath's lecture course available on YouTube (https://www.youtube.com/watch?v=4WVelCswXo4&list=PLDcUM9US4XdNM4Edgs7weiyIguLSToZRI).  The homeworks and Prof McElreath's solutions can be found on GitHub (https://github.com/rmcelreath/statrethinking_winter2019).
 
