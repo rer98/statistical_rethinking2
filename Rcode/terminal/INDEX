@@ -1,0 +1,73 @@
+AMTL                    Ante-mortem Tooth Loss Data
+Achehunting             Human forager hunting returns data
+Crofoot                 Capuchin monkey contests
+Dinosaurs               Dinosaur growth data
+Dissertations           Dissertation page length data
+Fish                    Fishing data
+HPDI                    Confidence/credible intervals from samples
+Hoogland                Prairie dog dispersal data
+Hurricanes              Hurricane fatalities and gender of names
+Kline                   Oceanic islands data
+KosterLeckie            Gift exchange data
+Primates301             Primate life history and social learning data
+PrussianHorses          Numbers of soldiers killed by horse kicks in
+                        the Prussian army 1875-1894
+Rinder                  Livestock mortality data
+Trolley                 Experimental data on ethical dilemmas
+UFClefties              Ultimate Fighting Championship matches
+WAIC                    Information Criteria and Pareto-Smoothed
+                        Importance Sampling Cross-Validation
+WaffleDivorce           Waffle House and marriage statistics
+Wines2012               Wine tasting scores, Princeton NJ 2012
+bangladesh              Bangladesh contraceptive use data
+chainmode               Find mode of a continuous density estimate
+cherry_blossoms         Japan Cherry Blossom Historical Data
+chimpanzees             Chimpanzee prosocialty experiment data
+coeftab                 Coefficient tables
+coeftab_plot            Plots of coefficient tables
+coerce_index            Build and check integer index variables
+col.alpha               Color utility functions
+compare                 Compare fit models using WAIC or DIC
+contour_xyz             Contour plot from equal length x,y,z vectors
+dbetabinom              Beta-binomial probability density
+dens                    Density plots
+dgampois                Gamma-Poisson probability density
+dlkjcorr                LKJ correlation matrix probability density
+dmvnorm2                Multivariate Gaussian probability density
+dordlogit               Ordered categorical log-odds probability
+                        density
+drawdag                 Plot Directed Acyclic Graphs (dagitty)
+dzagamma2               Zero-augmented gamma probability density
+dzibinom                Zero-inflated binomial probability density
+dzipois                 Zero-inflated Poisson probability density
+ensemble                Simulate an ensemble of posterior predictions
+extract.samples         Collect posterior or prior samples from a map
+                        or map2stan model
+foxes                   Urban foxes
+glimmer                 glm/glmer formulas to map/map2stan formulas
+image_xyz               Heat map from equal length x,y,z vectors
+link-methods            Predictions for map and map2stan models
+log_sum_exp             Rethinking utility functions
+map2stan                Build RStan models from formulas
+map2stan-class          Class 'map2stan': fitted map2stan Stan model
+mcreplicate             Multi-core version of replicate
+milk                    Primate milk data
+pairs.map2stan          Trace plot of map2stan chains
+plot.map2stan           Trace plot of map2stan chains
+postcheck               Plot posterior predictive check
+precis                  Precis of model fit
+progbar                 Progress display
+quap                    Compute quadratic approximate posterior
+                        distribution
+resample                Resample map2stan fit
+rethinking-package      Statistical Rethinking package
+sample.qa.posterior     Samples from quadratic posterior densities of
+                        models
+shade                   Shade density intervals
+sim                     Simulate posterior observations
+sim_train_test          Simulate in-sample and out-of-sample model
+                        performance
+simplehist              Simple histograms
+trankplot               Diagnostic trace and rank histogram plots for
+                        MCMC output
+ulam                    Build RStan models from formulas

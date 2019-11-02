@@ -1,0 +1,24 @@
+Package: rethinking
+Type: Package
+Title: Statistical Rethinking book package
+Version: 1.88
+Date: 2019-03-02
+Author: Richard McElreath
+Maintainer: Richard McElreath <richard_mcelreath@eva.mpg.de>
+Imports: coda, MASS, mvtnorm, loo
+Depends: rstan (>= 2.10.0), parallel, methods, stats, graphics
+Description: Utilities for fitting and comparing models
+License: GPL (>= 3)
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: rethinking
+RemoteUsername: rmcelreath
+RemoteRef: Experimental
+RemoteSha: f699ad3873b08ff1e6c4c6b24e256d0943937130
+GithubRepo: rethinking
+GithubUsername: rmcelreath
+GithubRef: Experimental
+GithubSHA1: f699ad3873b08ff1e6c4c6b24e256d0943937130
+NeedsCompilation: no
+Packaged: 2019-06-19 12:14:55 UTC; rer
+Built: R 3.6.0; ; 2019-06-19 12:14:57 UTC; unix
