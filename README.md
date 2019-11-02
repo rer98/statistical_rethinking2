@@ -12,4 +12,4 @@ Note that there are some incorrect numberings of the Practice problems within th
 
 The code runs on my laptop, which has the 12GB RAM and 4 Intel i7-4600U cores.  Occasionally the Kernel crashed when running some of the code in the Chapter 16 notebook, so I resorted to Rstudio to run some of the code, which seems more stable.
 
-I also include a spreadsheet that graphically demonstrates the concentration of measure phenomenon mentioned in the Statistical Rethinking2 book in section 9.2.2 'High-dimensional sadness'.
+I also include a spreadsheet ('ConcentrationOfMeasureDemo.xlsx') that graphically demonstrates the concentration of measure phenomenon mentioned in the Statistical Rethinking2 book in section 9.2.2 'High-dimensional sadness'.
